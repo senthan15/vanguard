@@ -1,0 +1,107 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Server running on http://localhost:3002
+Other laptops use: http://YOUR_IP_ADDRESS:3002
+List invoices error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+List invoices error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+Anchor error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+Anchor error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+Anchor error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+List invoices error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+List invoices error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
+Anchor error: Error: request timeout (code=TIMEOUT, version=6.16.0)
+    at makeError (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/errors.js:137:21)
+    at ClientRequest.<anonymous> (/home/senthanamuthan/Defy'26/backend/node_modules/ethers/lib.commonjs/utils/geturl.js:59:50)
+    at ClientRequest.emit (node:events:519:28)
+    at TLSSocket.emitRequestTimeout (node:_http_client:919:9)
+    at Object.onceWrapper (node:events:633:28)
+    at TLSSocket.emit (node:events:531:35)
+    at Socket._onTimeout (node:net:604:8)
+    at listOnTimeout (node:internal/timers:588:17)
+    at process.processTimers (node:internal/timers:523:7) {
+  code: 'TIMEOUT',
+  shortMessage: 'request timeout'
+}
