@@ -1,0 +1,128 @@
+{
+  "invoices": {
+    "30": {
+      "tokenId": "30",
+      "arweaveHash": "ar://poinx5wyrkbloksiwfbcjo",
+      "tokenURI": "https://arweave.net/ar://poinx5wyrkbloksiwfbcjo",
+      "amount": "1000",
+      "dueDate": "2026-01-21",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Anchored",
+      "txHash": "0x2cb77a91ad01d3a3781f82b49cfb9fa5258f5f3d5838fab6634257e0490c7c8c",
+      "createdAt": "2026-01-13T05:26:58.661Z"
+    },
+    "31": {
+      "tokenId": "31",
+      "arweaveHash": "ar://s9lpehaychoyilch5upte9",
+      "tokenURI": "https://arweave.net/ar://s9lpehaychoyilch5upte9",
+      "amount": "100",
+      "dueDate": "2026-01-21",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Anchored",
+      "txHash": "0x6b408ec5cfa142b03215813d6d24ab308c371d7ab7a05e16a67291d81d0a808b",
+      "createdAt": "2026-01-13T05:31:51.066Z"
+    },
+    "32": {
+      "tokenId": "32",
+      "arweaveHash": "ar://9dngipau0td2c70xxu28oh",
+      "tokenURI": "https://arweave.net/ar://9dngipau0td2c70xxu28oh",
+      "amount": "1100",
+      "dueDate": "2026-01-22",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0x3b2c779a8f29c32c83be2800b00fc2b9eae7694394db8de4348a962f73236ce7",
+      "createdAt": "2026-01-13T05:41:06.775Z",
+      "evaluatedAmount": 1100,
+      "mncSignature": "0x769760bfbccf0ead5b162db805421335f936e3c83bc0ac0320ea5013b04a935c0dd807db08868fde59f5bf3bd79fd3ad5706ff7c78448da5593151df5857e8c01c"
+    },
+    "33": {
+      "tokenId": "33",
+      "arweaveHash": "ar://rjikz4n7ro99g593sszp7",
+      "tokenURI": "https://arweave.net/ar://rjikz4n7ro99g593sszp7",
+      "amount": "1000",
+      "dueDate": "2026-01-29",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0xe1bfc8b5038c1f941dcdda0272dcd82ff8965f3e1d8b9b8835f03d8f7880ef6f",
+      "createdAt": "2026-01-13T05:42:41.081Z",
+      "evaluatedAmount": 1000,
+      "mncSignature": "0x60836083b67f322c723faaeda0f268292c4e183cfb8200cde0ed0f3d60d2770452f82ef293521ec7b1a2bede0dffe2fce6e0617a638429689955b721f7351dac1b"
+    },
+    "34": {
+      "tokenId": "34",
+      "arweaveHash": "ar://310oj8h16ox6x2hnf430fk",
+      "tokenURI": "https://arweave.net/ar://310oj8h16ox6x2hnf430fk",
+      "amount": "121",
+      "dueDate": "2026-01-31",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0xa850f494247e03e501c9c87f755cdb4eedef72de39fc73099da8f93d81b77622",
+      "createdAt": "2026-01-13T05:43:26.499Z",
+      "evaluatedAmount": 121,
+      "mncSignature": "0x30250be9e1be006327efdf290d92bacc6c44f91f2c0654d04f064ba8844bcc29759a21dfd01a7df23a9ad32c5fd7cfd911ce46dd7da8a4911cbac25db11da2c81c"
+    },
+    "35": {
+      "tokenId": "35",
+      "arweaveHash": "ar://27d62vpskgf6vuf2qjw7c",
+      "tokenURI": "https://arweave.net/ar://27d62vpskgf6vuf2qjw7c",
+      "amount": "555",
+      "dueDate": "2026-01-24",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0xcaaed41d41adc0dcded1526c25a461932860b055a50842990194d55745f2977a",
+      "createdAt": "2026-01-13T06:01:28.158Z",
+      "evaluatedAmount": 555,
+      "mncSignature": "0xf8e71344e53e7204a0793296c730adb199513954f32fd95f81e194523a12e8a20f75298183d8687200c1c1ffa124cb35e48c54b6edcb12d2165153cc8f2036891b"
+    },
+    "36": {
+      "tokenId": "36",
+      "arweaveHash": "ar://2k6tf30kx6dxwpm1jhp32o",
+      "tokenURI": "https://arweave.net/ar://2k6tf30kx6dxwpm1jhp32o",
+      "amount": "12",
+      "dueDate": "2026-01-10",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0x3f165e426effc6b657901317552f57f5d4e9c5df5550d4f7518ff6a936a98997",
+      "createdAt": "2026-01-13T06:30:10.811Z",
+      "evaluatedAmount": 12,
+      "mncSignature": "0xc04dbede3ba800fc6fdf963464f786cd1c53c6aae71e803a8b7c50eca1604b153d6647d871aa8e9077a285034b2d56a33a73e5d80fed348cf49062e8ef430e561b"
+    },
+    "37": {
+      "tokenId": "37",
+      "arweaveHash": "ar://rdy9pn0yzw0f1oith2d2u7",
+      "tokenURI": "https://arweave.net/ar://rdy9pn0yzw0f1oith2d2u7",
+      "amount": "1000",
+      "dueDate": "2026-01-10",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Anchored",
+      "txHash": "0x72056fbec97b0a205247a5a03d816dbadd6af030d7acb58aba6e778a9ad464c9",
+      "createdAt": "2026-01-13T06:34:15.133Z"
+    },
+    "38": {
+      "tokenId": "38",
+      "arweaveHash": "ar://gp8m0hjlgnm3kunafewi56",
+      "tokenURI": "https://arweave.net/ar://gp8m0hjlgnm3kunafewi56",
+      "amount": "5000",
+      "dueDate": "2026-01-31",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0xcb8d45ed66f7ec5d946dfa7878c0f9c71723a34db00b1e6b3b71bae3e256ed8c",
+      "createdAt": "2026-01-13T06:47:03.883Z",
+      "evaluatedAmount": 5000,
+      "mncSignature": "0x0d62e16782e585bb490b18a88aac50221c6a429013ee05642cbf124cdf0c73c44699c04664845497006225e9cb38feec547c2ce1a91deb83776f158f44915a601b"
+    },
+    "39": {
+      "tokenId": "39",
+      "arweaveHash": "ar://5f2o08r582c1ngcaznae7g",
+      "tokenURI": "https://arweave.net/ar://5f2o08r582c1ngcaznae7g",
+      "amount": "6000",
+      "dueDate": "2026-01-31",
+      "smeAddress": "0x64b76b70bc6bbf5c3107e5195b126ea13e701210",
+      "status": "Funded",
+      "txHash": "0x20479a3d9bda9cb7eb88c1b02509af931b76a005a0ddc336d5a71eee09dfcfd6",
+      "createdAt": "2026-01-13T06:53:23.031Z",
+      "evaluatedAmount": 6000,
+      "mncSignature": "0x22ab76f9c4882d3bda4456776d8e411948b2942485897d5d763bcd635d24c00642e2d3a97fbc36d51dcbf05687520aca4d6028a1e9138cdc6e388441682db60a1c"
+    }
+  }
+}
