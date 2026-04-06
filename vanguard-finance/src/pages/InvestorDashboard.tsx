@@ -20,7 +20,7 @@ import { toast } from '@/hooks/use-toast';
 import { useWalletContext } from '@/contexts/WalletContext';
 import { ethers } from 'ethers';
 
-const API_URL = 'http://localhost:3002';
+const API_URL = 'https://vanguard-backend-ftbf.onrender.com';
 const CONTRACT_ADDRESS = "0x77Cff71640b88b500ca27146BbEF41FaB0F94BD8";
 const CHAIN_ID = 8119; // Shardeum Sphinx
 
