@@ -20,7 +20,7 @@ import {
 import { toast } from '@/hooks/use-toast';
 import { useWalletContext } from '@/contexts/WalletContext';
 
-const API_URL = 'http://localhost:3002';
+const API_URL = 'https://vanguard-backend-ftbf.onrender.com';
 
 export const Marketplace: React.FC = () => {
   const { wallet } = useWalletContext();
