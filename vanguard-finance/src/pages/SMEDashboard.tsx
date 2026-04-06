@@ -11,7 +11,7 @@ import { Upload, FileText, DollarSign, Loader2, Plus, TrendingUp, Clock } from '
 import { toast } from '@/hooks/use-toast';
 import { useWalletContext } from '@/contexts/WalletContext';
 
-const API_URL = 'http://localhost:3002'; // Hardcoded based on backend .env
+const API_URL = 'https://vanguard-backend-ftbf.onrender.com'; // Updated to production endpoint
 
 export const SMEDashboard: React.FC = () => {
   const { wallet } = useWalletContext();
