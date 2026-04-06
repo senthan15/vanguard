@@ -57,6 +57,9 @@ let usdcContract;
     usdcContract = new ethers.Contract(usdcAddress, usdcAbi, wallet);
 })();
 
+app.get('/', (req, res) => {
+  res.status(200).json({ status: "Vanguard API is online" });
+});
 // ============================================
 // 3. API ENDPOINTS
 // ============================================
